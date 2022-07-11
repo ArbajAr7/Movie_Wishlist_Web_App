@@ -24,4 +24,4 @@ This is a HTML,CSS and Javascript project in which firebase is Used for Authenti
 login.htms => Index.html => Wishlist.html
 Signin.html => Index.html => Wishlist.html
 
-
+LIVE LINK: https://arbajar7.github.io/Movie_Wishlist_Web_App/
